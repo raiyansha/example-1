@@ -1,0 +1,5 @@
+What Is Version Control?
+A system called version control, sometimes referred to as source control or revision control,
+ keeps track of changes made to a file or group of files over time so that you may retrieve particular versions at a later time.
+ Although it can be applied to any circumstance where several versions of something are made and may need to be monitored and recalled, 
+it is most frequently employed in software development.
